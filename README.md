@@ -30,17 +30,17 @@ GOOGLE_FORM_ENTRY_EMAIL=entry.xxxxxxxxxx
 GOOGLE_FORM_ENTRY_COMMENT=entry.xxxxxxxxxx
 ```
 
-`MICROCMS_API_KEY`  
+`MICRO_CMS_API_KEY`  
 microCMS 管理画面の「サービス設定 > API キー」から確認することができます。
 
-`MICROCMS_SERVICE_DOMAIN`  
+`MICRO_CMS_DOMAIN`  
 microCMS 管理画面の URL（https://xxxxxxxx.microcms.io）の xxxxxxxx の部分です。
 
 `Googleアナリティクス`
 Googleアナリティクスの管理のデータストリームの中の測定ID（G-xxxxxxxx）の部分です。
 
 `GoogleフォームのURL`
-Googleフォームの URL（https://docs.google.com/forms/d/e/xxxxxxxxxx/formResponse）の xxxxxxxx の部分です。
+Googleフォームの URL（https://docs.google.com/forms/d/e/xxxxxxxxxx/formResponse）をご記載くださいませ。
 
 `GoogleフォームのエントリーID`
 Googleフォームのソースコードを開いて、entry.で検索すると各入力欄にID（entry.xxxxxxxxxx）が見つかります。その部分です。
