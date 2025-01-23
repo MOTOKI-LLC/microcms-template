@@ -7,8 +7,8 @@
           <img src="~/assets/images/logo.svg" alt="MOTOKI LLC" class="h-6 w-auto relative right-1.5 mb-4"
             style="filter: invert(100%);">
           <div class="address-contact">
-            <p>〒359-1104<br>
-              埼玉県所沢市榎町21番20号<br>
+            <p>〒000-0000<br>
+              東京都中央区銀座1丁目1番1号<br>
               <!--<a href="https://motoki-design.co.jp/" target="_blank">https://motoki-design.co.jp/</a>-->
             </p>
           </div>
@@ -55,10 +55,9 @@
           <div class="footer-menu">
             <div class="footer-menu-title font-bold mb-2">関連サービス</div>
             <ul>
-              <li><a href="https://motoki-design.co.jp/" target="_blank" rel="noopener noreferrer">WordPress制作</a></li>
-              <li><a href="https://motoki-design.co.jp/wordpress/" target="_blank" rel="noopener noreferrer">ブログ</a>
-              </li>
-              <li><a href="https://motoki-design.co.jp/figma/" target="_blank" rel="noopener noreferrer">素材販売</a></li>
+              <li><a href="#" target="_blank" rel="noopener noreferrer">WordPress制作</a></li>
+              <li><a href="#" target="_blank" rel="noopener noreferrer">ブログ</a></li>
+              <li><a href="#" target="_blank" rel="noopener noreferrer">素材販売</a></li>
             </ul>
           </div>
 
@@ -67,7 +66,7 @@
 
       <div class=" footer-bottom">
         <p class="copyright">
-          <span lang="ja">©</span> 2021 MOTOKI合同会社
+          <span lang="ja">©</span> 2021 ダミー株式会社
         </p>
       </div>
     </div>
