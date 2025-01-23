@@ -9,7 +9,7 @@
 
         <div class="policy-content">
           <p>
-            MOTOKI合同会社は、お客様の個人情報を適切に取り扱うことをお約束します。
+            ダミー株式会社は、お客様の個人情報を適切に取り扱うことをお約束します。
           </p>
 
           <div class="section-title">個人情報の利用目的</div>
@@ -41,7 +41,7 @@
 
           <div class="section-title">お問い合わせ</div>
           <p>
-            プライバシーポリシーに関するお問い合わせは、info@motoki-design.co.jpまでご連絡ください。
+            プライバシーポリシーに関するお問い合わせは、info@example.co.jpまでご連絡ください。
           </p>
         </div>
       </div>
